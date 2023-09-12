@@ -3,6 +3,7 @@
 ## Unreleased
 
 - Added: Test for PR Rebase workflow
+- Completed tests for PR Rebase workflow
 
 ## Unknown
 
